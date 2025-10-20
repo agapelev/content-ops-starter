@@ -4,16 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Mission Shekinah & "Web Arystan"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      A Mission Shekinah & Web Arystan. Добро пожаловать в Миссию "Shekinah" в Казахстане на основании Евангелия Иисуса Христа и школы Берта Кленденнена «Международной Школа Христа».
     actions:
-      - label: Get started
+      - label: WDS Web Arystan
         altText: ''
         url: /
         showIcon: false
@@ -22,7 +20,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: School of Christ Kazakhstan
         altText: ''
         url: /
         showIcon: true
@@ -32,7 +30,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/copilot-ms-sock.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -739,8 +737,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Home - Mission Shekinah & Web Arystan
+  metaDescription: Мисси Шехина и Студии интернет разработок Веб Арыстан.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

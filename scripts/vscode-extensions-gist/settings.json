@@ -12,7 +12,13 @@
   },
   "tailwindCSS.emmetCompletions": true,
   "prettier.disableLanguages": ["vue"],
-  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact", "astro"],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "astro"
+  ],
   "markdownlint.config": {
     "default": true
   },
